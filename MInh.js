@@ -1,1 +1,0 @@
-const Minh = () => <div></div>
